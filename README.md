@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Your%20Name&fontSize=80&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jadhav%20Shiva%20Sai%20Prasad&fontSize=80&animation=fadeIn)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
