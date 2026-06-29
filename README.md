@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shiva%20Sai%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+full-stack+systems;Designing+AI%2FML+pipelines+that+ship;Researching+5G+Non-Terrestrial+Networks;Open+to+SWE+%2F+AI+Engineering+roles&font=Fira+Code&center=true&width=600&height=40&color=58A6FF&vCenter=true&size=20&pause=2000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+full-stack+systems;Designing+AI%2FML+pipelines+that+ship;Researching+5G+Non-Terrestrial+Networks;Open+to+SDE+%2F+AI+Engineering+roles&font=Fira+Code&center=true&width=600&height=40&color=58A6FF&vCenter=true&size=20&pause=2000"/>
 
 <br/>
 
@@ -22,7 +22,7 @@ I'm a final-year **Computer Science Engineering** student at **IIIT Sri City**, 
 - 🤖 **AI / ML** — model training, RAG systems, NLP, applied research
 - 📡 **Research** — published work on GRU-based prediction models for 5G Non-Terrestrial Networks
 - ☁️ **Deployment** — cloud-deployed, multilingual, real-user-facing applications
-- 🎯 Currently seeking **SWE / AI Engineering internships and full-time roles**
+- 🎯 Currently seeking **SDE / AI Engineering internships and full-time roles**
 
 <br/>
 
